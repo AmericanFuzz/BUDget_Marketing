@@ -1,0 +1,65 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  },
+  "stickers" : [
+    {
+      "filename" : "ramay2.sticker"
+    },
+    {
+      "filename" : "HelloTrader.sticker"
+    },
+    {
+      "filename" : "InvestigatingTrader.sticker"
+    },
+    {
+      "filename" : "IdeaTrader.sticker"
+    },
+    {
+      "filename" : "ExchangeTrader.sticker"
+    },
+    {
+      "filename" : "ComputingTrader.sticker"
+    },
+    {
+      "filename" : "dealRejected.sticker"
+    },
+    {
+      "filename" : "greyBit.sticker"
+    },
+    {
+      "filename" : "TeleportHome.sticker"
+    },
+    {
+      "filename" : "defaultBud.sticker"
+    },
+    {
+      "filename" : "greyBud.sticker"
+    },
+    {
+      "filename" : "lock.sticker"
+    },
+    {
+      "filename" : "BudCoin.sticker"
+    },
+    {
+      "filename" : "CashTropolis.sticker"
+    },
+    {
+      "filename" : "notification.sticker"
+    },
+    {
+      "filename" : "exitPoint.sticker"
+    },
+    {
+      "filename" : "wrench.sticker"
+    },
+    {
+      "filename" : "northEaston.sticker"
+    }
+  ]
+}
